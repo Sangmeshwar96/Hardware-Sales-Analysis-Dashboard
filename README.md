@@ -12,7 +12,7 @@ Excited to share insights from my recent #powerbi project Diabetes Data Analysis
 
 🗒Tool Used:- MySQL, Power BI, Power Query Editor
 
-GitHub link : 
+GitHub link : https://github.com/Sangmeshwar96/Hardware-Sales-Analysis-Dashboard
 
 📝 Things I Done :-
 
